@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=PranayTalware)
 
 - 🌱 I’m currently working in Powerbi, sql, python, excel, tableau and also enhancing skill in AI/ML
-- 📫 How to reach me: [your_email@gmail.com](mailto:dataartist101@gmail.com)
+- 📫 How to reach me: [dataartist101@gmail.com](mailto:dataartist101@gmail.com)
 - ⚡ Fun fact: A Electrical Engineer turned Data Enthusiast
 
 ### Connect with me:
